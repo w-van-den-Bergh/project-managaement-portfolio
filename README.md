@@ -2,21 +2,26 @@
 Below is a list of projects that I have managed, each link contains further details on the project
 
 ### RCCA analysis of solid-state batteries
-Summary:
+**Summary:**
 
-Link:
+**Link:**
 
 ### Sample management and preparation of solid-state cells and samples for isostatic pressing
-Summary:
+**Summary:**
 
-Link:
+**Link:**
 
 ### Writing review papers for peer review publication
-Summary:
+**Summary:**
 
-Link:
+**Link:**
 
 ### Scientific Collaboration accross institutions
-Summary:
+**Summary:**
 
-Link:
+**Link:**
+
+### Outreach program and educational planning for highschoolers to understand batteries
+**Summary:**
+
+**Link:**
