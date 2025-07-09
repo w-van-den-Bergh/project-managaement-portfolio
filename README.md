@@ -1,12 +1,22 @@
 # project-managaement-portfolio
+Below is a list of projects that I have managed, each link contains further details on the project
 
+### RCCA analysis of solid-state batteries
+Summary:
 
-Case 1: Review paper
+Link:
 
-Case 2: KIT Collaboration
+### Sample management and preparation of solid-state cells and samples for isostatic pressing
+Summary:
 
-Case 3: RCCA of cells
+Link:
 
-Case 4: Isostatic Press samples to be sent out
+### Writing review papers for peer review publication
+Summary:
 
-Case 5: Collaborations with other teams during PHD
+Link:
+
+### Scientific Collaboration accross institutions
+Summary:
+
+Link:
