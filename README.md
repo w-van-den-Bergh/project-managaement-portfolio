@@ -14,7 +14,7 @@ Below is a list of projects that I have managed, each link contains further deta
 ### Writing review papers for peer review publication
 **Summary:** A general overview of previous collaborative writing projects. Collaborative writing is an interative process that requires controlled coordination between authors and stakeholders. 
 
-**[Link](./pm-of-paper-writing)**
+**[Link](./pm-portfolio-examples/pm-of-paper-writing)**
 
 ### Scientific Collaboration accross institutions
 **Summary:** A general overview of previous collaborations and my role in managing those projects.
