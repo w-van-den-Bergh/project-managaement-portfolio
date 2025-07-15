@@ -11,7 +11,7 @@ Below is a list of projects that I have managed, each link contains further deta
 
 **[Link](./pm-portfolio-examples/pm-ASSB-isostatic-press-run.md)**
 
-### Writing review papers for peer review publication
+### Writing papers for peer review publication
 **Summary:** A general overview of previous collaborative writing projects. Collaborative writing is an interative process that requires controlled coordination between authors and stakeholders. 
 
 **[Link](./pm-portfolio-examples/pm-of-paper-writing.md)**
