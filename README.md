@@ -16,11 +16,6 @@ Below is a list of projects that I have managed, each link contains further deta
 
 **[Link](./pm-portfolio-examples/pm-of-paper-writing.md)**
 
-### Scientific Collaboration accross institutions
-**Summary:** A general overview of previous collaborations and my role in managing those projects.
-
-**[Link](./pm-portfolio-examples/pm-institution-collaborations.md)**
-
 ### Outreach program and educational planning for highschoolers to understand batteries
 **Summary:** A local highschool teacher received special funds to add a special section for students to understand diffusion and Li-ion batteries.
 
