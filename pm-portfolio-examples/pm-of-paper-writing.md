@@ -1,4 +1,4 @@
-## Writing papers
+## Development of novel synthesis for cathode active materials
 
 **Summary:** Assigned as the lead scientist in charge or research and project management for the synthesis of cathode active materials for the purpose of patent development and academic publication (not in pursuit of degree) as a joint project between KIT and BASF. This involved managing documentation, updating stakeholders, and coordinating with team members and members of partner organizations. This resulted in two patents and five scientific publications.
 
