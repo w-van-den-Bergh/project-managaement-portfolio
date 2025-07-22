@@ -1,9 +1,11 @@
 ## Writing papers
 
-**Summary:** Academic papers require the coordination of authors, editors, and peer-reviewers. The first author is the responsible party for managing writing, edits, submission, and proofing. Here I lay out the general process through a project management lens.
+**Summary:** Assigned as the lead scientist in charge or research and project management for the synthesis of cathode active materials for the purpose of patent development and academic publication (not in pursuit of degree) as a joint project between KIT and BASF. This involved managing documentation, updating stakeholders, and coordinating with team members and members of partner organizations. This resulted in two patents and five scientific publications.
 
-**Role and Contributions:** As first author, I was the responsible party for writing contributions, edits, submission, revisions, and proofing. This includes coordinating with secondary authors and laying out what sections they ought to contribute, experiments and scientific figures to be included in the paper, and submission process which involves liaisons with an editor.
+**Role:** Managed project management documentation, scientific data, updates with stakeholders, and direction of research which was passed onto team members to conduct experiments.
 
-**Deliverables:** Submit a publication worthy academic paper to a well-respected and peer reviewed journal.
+**Objective:** Develop novel synthesis methods for cathode active materials for the purpose of patent development and/or academic publication (not in pursuit of degree).
 
-**Results:** Peer reviewed academic papers in well respected journals, 7 times over. [Link](https://github.com/w-van-den-Bergh/resume_CV?tab=readme-ov-file#publications-patents-and-presentations)
+**Outcome:** Delivered two patents and five scientific publications. In addition developed two unique synthesis techniques which led to the patents.</br>
+Patent #s WO 2025/061478 A1 and WO 2024/240593 A1 </br>
+[Link](https://github.com/w-van-den-Bergh/resume_CV?tab=readme-ov-file#publications-patents-and-presentations)
