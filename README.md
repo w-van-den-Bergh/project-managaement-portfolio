@@ -11,8 +11,8 @@ Below is a list of projects that I have managed, each link contains further deta
 
 **[Link](./pm-portfolio-examples/pm-ASSB-isostatic-press-run.md)**
 
-### Writing papers for peer review publication
-**Summary:** A general overview of previous collaborative writing projects. Collaborative writing is an interative process that requires controlled coordination between authors and stakeholders. 
+### Development of novel synthesis for cathode active materials
+**Summary:** An overview of the work done at KIT from a project management perspective. Work focused on scientific output in the form of patents and scientific publications in a non-degree attaining capacity (Post-Doc)
 
 **[Link](./pm-portfolio-examples/pm-of-paper-writing.md)**
 
