@@ -2,6 +2,6 @@
 
 **Role:** I acted as the project manager. I handled associated documentation such as project charter, business case, Gantt chart, and sample manifest. This also required me to report to and update stake holders which approved of the project and update members of different teams to explain what is required from them. I managed communication and quotes for arranging the sample treatment with the company partnering for this project. I also managed the shipping and receipt of the samples which involved the consideration of hazardous materials handling during transport.
 
-**Objective: **Send a batch of samples, selected by representatives of associated research teams, for two different treatment conditions and then received for associated testing.
+**Objective:** Send a batch of samples, selected by representatives of associated research teams, for two different treatment conditions and then received for associated testing.
 
 **Outcome:** Samples were prepared, cataloged, and delivered a batch consisting of 150 samples across two treatment conditions. Due to unforeseen conditions, a portion of the 150 samples (~10 samples) were not treated. This unforeseen issue was corrected by samples being resent to the company which did the treatments for a followup.
