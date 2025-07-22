@@ -1,10 +1,7 @@
+**Summary: **The project was a management from proposal to completion of a specialized industrial treatment process of experimental samples for solid-state batteries. This consisted of preparing a business case for the project, presenting the project idea to potential stake holders and gaining approval, then preparing the associated documentation (Gantt Chart, Project Charter, etc). This then turned into arranging the logistics both with the company which would handle our samples for treatment and the management of samples from multiple teams to be cataloged and sent.
 
-## Isostatic Press Pilot Run of Hazardous Samples
+**Role:** I acted as the project manager. I handled associated documentation such as project charter, business case, Gantt chart, and sample manifest. This also required me to report to and update stake holders which approved of the project and update members of different teams to explain what is required from them. I managed communication and quotes for arranging the sample treatment with the company partnering for this project. I also managed the shipping and receipt of the samples which involved the consideration of hazardous materials handling during transport.
 
-**Summary:** A technique for material desertification known as isostatic pressing was proposed and approved for a pilot run. A sample manifest was created and sample preparation was coordinated across teams for a total of ~150 samples. Samples were shipped, treated, and returned to be tested.
+**Objective: **Send a batch of samples, selected by representatives of associated research teams, for two different treatment conditions and then received for associated testing.
 
-**Role and Contributions:** From my proposal, I was assigned as project manager for the pilot run. I was in charge of the sample manifest which involved coordinating with different teams to determine what samples would be provided from each team. Furthermore, I handled the logistics of preparation and safe transport of hazardous samples for testing. Lastly, updates were provided to stakeholders on a regular basis.
-
-**Deliverables:** Prepare a set of samples from all teams in the US R&D department as manifest to be sent, treated under two different conditions, and then returned for testing.
-
-**Results:** Samples were organized and cataloged before sent and treated by the business partner without issue. Subsequent testing found notable improvements to the treated samples compared to baseline. These findings and associated documentation were organized and presented to the key stakeholders to present as a case for additional treatments.
+**Outcome: **Samples were prepared, cataloged, and delivered a batch consisting of 150 samples across two treatment conditions. Due to unforeseen conditions, a portion of the 150 samples (~10 samples) were not treated. This unforeseen issue was corrected by samples being resent to the company which did the treatments for a followup.
