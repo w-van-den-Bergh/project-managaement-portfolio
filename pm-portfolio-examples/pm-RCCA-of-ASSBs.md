@@ -1,9 +1,9 @@
 ## RCCA of All-Solid-State Batteries
 
-**Summary:** With a change in formulation of one of the battery components, there was an sudden increase in cell failure rate early on in its cycle lifetime. I was tasked with working with selected team members and constructing an RCCA with the goal of finding the root cause and delivering a proposed solution to the problem.
+**Summary:** Selected to lead a team of scientists and engineers on a root cause corrective analysis (RCCA) project for the root cause of an observed increased in failure rate of battery cells. This began with the create of associated project management documentation, RCCA analysis chart, and the outline of an anticipated report.
 
-**Role and Contributions:** My role consisted of being the project manager for this RCCA which involved laying out the 5-Whys RCCA tree, managing documentation, coordinating experiments with team members, and updating stakeholders on progress.
+**Objective:** To perform an RCCA and provide a report to key stakeholders complete with an explanation of the root cause and a proposed solution to the problem.
 
-**Deliverables:** The ultimate deliverable was to isolate the root cause and provide a proposed solution.
+**Role:** My role in the project consisted of preparing the associated project management documentation such as RACI chart, project charter, and Gantt chart. In addition, I was in charge of managing the RCCA documentation, and the accumulated knowledge from experiments and associated literature research. As project lead, I was chosen to update key stakeholders and pass on any information to my team members. Team members were given portions of the RCCA project and were given regular check-ins to see what logistical issues or updates they may have to either facilitate or update, respectively.
 
-**Results:** Detailed documentation with supporting evidence from experiments and literature research lead the team to root cause with further research providing a possible solution. These findings were compiled into a report and presented to the key stakeholders for a higher level decision.
+**Outcome:** The outcome of the project was a completion of the RCCA project with all goals met. This included clear documentation of the progress, a compiled report with supporting evidence for our conclusions, and a presentation to the department on our findings complete with a proposed solution.
