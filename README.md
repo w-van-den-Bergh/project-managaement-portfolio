@@ -1,4 +1,9 @@
 # project-managaement-portfolio
+
+**Certified Project Management Professional (PMP) by the Project Management Institute (PMI)**
+
+**Certification number = 4187347**
+
 Below is a list of projects that I have managed, each link contains further details on the project
 
 ### RCCA analysis of solid-state batteries
